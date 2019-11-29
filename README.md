@@ -1,1 +1,1 @@
-# datasciencecoursera
+# repository for DS coursera course
